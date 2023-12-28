@@ -50,11 +50,11 @@ The Student is a registered member of library system. All student has unique use
 # Screenshots
 
 ## Login page
-![Capture](https://github.com/rajan2133/Library-Management-System/assets/125083834/a1d30c1b-9344-4249-8d76-822983255e40)
+![Capture](https://github.com/rajan2133/Library-Management-System/assets/125083834/a183c434-01b9-4c53-abaa-609d9fe796e1)
 
 ## Librarian/Admin page
-![hjh](https://github.com/rajan2133/Library-Management-System/assets/125083834/552a6b6c-fe3e-45ef-bf69-9549abc92590)
+![hjh](https://github.com/rajan2133/Library-Management-System/assets/125083834/2965366d-61c9-4338-85a9-5ddb2d975c48)
 
 ## Student page
-![Inked45](https://github.com/rajan2133/Library-Management-System/assets/125083834/6df34726-440b-4276-a541-47f6b92aae86)
+![Inked45](https://github.com/rajan2133/Library-Management-System/assets/125083834/66aa5e27-0873-42a2-a9b4-e6a3585b804d)
 
