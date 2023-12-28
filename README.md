@@ -9,9 +9,9 @@ Library management system project website used to maintain all activities of lib
 
 # This Project has main two modules.
 
-1.Librarian
+1. Librarian
 
-2.Student
+2. Student
 
 # Librarian:
 
