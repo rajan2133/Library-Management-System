@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LibrarySystem", ".", "{D14DD557-30D8-4B79-9A29-DD5B5BEEE856}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/LibrarySystem"
+		Debug.AspNetCompiler.PhysicalPath = "..\LibrarySystem\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\LibrarySystem\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/LibrarySystem"
+		Release.AspNetCompiler.PhysicalPath = "..\LibrarySystem\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\LibrarySystem\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "18035"
+		SlnRelativePath = "..\LibrarySystem\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14DD557-30D8-4B79-9A29-DD5B5BEEE856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14DD557-30D8-4B79-9A29-DD5B5BEEE856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E90ADB0-DCC3-4252-9E1E-4A7E9ED29A90}
+	EndGlobalSection
+EndGlobal
